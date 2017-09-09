@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="_2Board.TestSquareBoard" tests="8" skipped="0" failures="0" errors="0" timestamp="2016-10-10T04:08:58" hostname="ASUS" time="0.018">
+  <properties/>
+  <testcase name="testAllCells" classname="_2Board.TestSquareBoard" time="0.016"/>
+  <testcase name="testRow" classname="_2Board.TestSquareBoard" time="0.0"/>
+  <testcase name="testCell" classname="_2Board.TestSquareBoard" time="0.0"/>
+  <testcase name="testRowReversedRange" classname="_2Board.TestSquareBoard" time="0.0"/>
+  <testcase name="testNeighbour" classname="_2Board.TestSquareBoard" time="0.001"/>
+  <testcase name="testColumn" classname="_2Board.TestSquareBoard" time="0.0"/>
+  <testcase name="testNoCell" classname="_2Board.TestSquareBoard" time="0.0"/>
+  <testcase name="testColumnReversedRange" classname="_2Board.TestSquareBoard" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

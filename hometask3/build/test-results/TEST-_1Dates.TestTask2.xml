@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="_1Dates.TestTask2" tests="3" skipped="0" failures="0" errors="0" timestamp="2016-10-10T04:08:58" hostname="ASUS" time="0.001">
+  <properties/>
+  <testcase name="testAfter" classname="_1Dates.TestTask2" time="0.0"/>
+  <testcase name="testBefore" classname="_1Dates.TestTask2" time="0.001"/>
+  <testcase name="testInRange" classname="_1Dates.TestTask2" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

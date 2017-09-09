@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="_1Dates.TestTask5And6" tests="4" skipped="0" failures="0" errors="0" timestamp="2016-10-10T04:08:58" hostname="ASUS" time="0.0">
+  <properties/>
+  <testcase name="testOneMonth" classname="_1Dates.TestTask5And6" time="0.0"/>
+  <testcase name="testAddOneTimeInterval" classname="_1Dates.TestTask5And6" time="0.0"/>
+  <testcase name="testMonthChange" classname="_1Dates.TestTask5And6" time="0.0"/>
+  <testcase name="testAddTimeIntervals" classname="_1Dates.TestTask5And6" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
